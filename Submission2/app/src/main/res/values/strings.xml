@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Submission 2</string>
+    <string name="ex_user_name">Name</string>
+    <string name="object_received">Data Diterima</string>
+    <string name="ismairacle">Username</string>
+    <string name="ex_repository">Repository</string>
+    <string name="ex_followers">Followers</string>
+    <string name="ex_following">Following</string>
+    <string name="ex_google_indonesia">Company</string>
+    <string name="ex_jakarta_indonesia">Location</string>
+    <string name="_0">0</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="search_hint">Masukan Kata</string>
+
+    <string-array name="username">
+        <item>JakeWharton</item>
+        <item>amitshekhariitbhu</item>
+        <item>romainguy</item>
+        <item>chrisbanes</item>
+        <item>tipsy</item>
+        <item>ravi8x</item>
+        <item>jasoet</item>
+        <item>budioktaviyan</item>
+        <item>hendisantika</item>
+        <item>sidiqpermana</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_tab_following">Following Tab</string>
+    <string name="content_tab_followers">Followers Tab</string>
+    <string name="tab_text_1">Following</string>
+    <string name="tab_text_2">Followers</string>
+    <string name="category_name">Category Name</string>
+    <string name="category_description">Category Description</string>
+
+
+</resources>
