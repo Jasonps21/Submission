@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\drawable_user4.png.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\drawable\\user4.png"
+    },
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\drawable_user2.png.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\drawable\\user2.png"
+    },
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\drawable_user6.png.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\drawable\\user6.png"
+    },
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_detail.xml.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\layout_item_row_user.xml.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\layout\\item_row_user.xml"
+    },
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\drawable_user7.png.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\drawable\\user7.png"
+    },
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\drawable_user10.png.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\drawable\\user10.png"
+    },
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\drawable_user9.png.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\drawable\\user9.png"
+    },
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\drawable_user5.png.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\drawable\\user5.png"
+    },
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\drawable_user1.png.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\drawable\\user1.png"
+    },
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\drawable_user8.png.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\drawable\\user8.png"
+    },
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\build\\intermediates\\res\\merged\\release\\drawable_user3.png.flat",
+        "source": "D:\\Project\\AndroidFundamental\\Submission\\Submission1\\app\\src\\main\\res\\drawable\\user3.png"
+    }
+]
